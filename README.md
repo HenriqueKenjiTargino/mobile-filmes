@@ -1,6 +1,7 @@
  integrantes:
 
  Henrique Kenji
+
  Daniel Ryu
 * Descrição do projeto:
 # Descrição do projeto
@@ -10,7 +11,7 @@
 # Relatório
   Henrique Kenji:fez a codificação, a parte visual e o github. 
 
-Daniel Ryu: juntou os dois códigos 
+Daniel Ryu: juntou os dois códigos e ajudou no git
   
  * Link da wiki:
    * [home](https://github.com/HenriqueKenjiTargino/mobile-filmes/wiki)
