@@ -1,14 +1,16 @@
  integrantes:
 
  Henrique Kenji
+ Daniel Ryu
 * Descrição do projeto:
 # Descrição do projeto
 
- Um protótipo do site da mostra cultural que apresenta os filmes Assassin's Creed, Enigma de Outro Mundo, Ainda Estou Aqui, Menino do Pijama Listrado e Warcraft , cada um contém sinopse, direção, produção, empresa, studio, gênero, dados de lançamento, elenco, links e uma galeria de imagens para melhor entendimento da obra.
+ Um protótipo do site da mostra cultural que apresenta os filmes Assassin's Creed, Enigma de Outro Mundo, Ainda Estou Aqui, Menino do Pijama Listrado e Warcraft , cada um contém sinopse, direção, produção, empresa, studio, gênero, dados de lançamento, elenco, links e uma galeria de imagens para melhor entendimento da obra.Tambem foi adicionado o jogo E.T ao aplicativo que contém informações as mesmas informações que os filmes
 
 # Relatório
   Henrique Kenji:fez a codificação, a parte visual e o github. 
 
+Daniel Ryu: juntou os dois códigos 
   
  * Link da wiki:
    * [home](https://github.com/HenriqueKenjiTargino/mobile-filmes/wiki)
